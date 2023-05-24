@@ -1,3 +1,3 @@
 # calculator
 
-[Calculator](https://github.io/oswgg/calculator)
+[Calculator](https://oswgg.github.io/calculator)
